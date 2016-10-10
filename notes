@@ -1,0 +1,8 @@
+http://localhost:8500/cfsummit/index.cfm
+http://localhost:8500/cfsummit/blog-client.html
+
+node index.js
+
+http://localhost:3000/blogs
+
+
